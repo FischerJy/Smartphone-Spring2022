@@ -8,7 +8,7 @@
 import UIKit
 
 class TableViewController: UITableViewController {
-    let arr = ["mark", "john", "bob", "tom", "peter"]
+    let arr = ["mark", "john", "bob", "tom", "peter","dick"]
     override func viewDidLoad() {
         super.viewDidLoad()
 
